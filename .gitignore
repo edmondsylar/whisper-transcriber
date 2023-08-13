@@ -1,0 +1,5 @@
+/env
+# uploads
+env
+
+/__pycache__
