@@ -1,5 +1,5 @@
 /env
-# uploads
+logs
 env
 
 /__pycache__
